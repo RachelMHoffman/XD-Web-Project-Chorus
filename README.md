@@ -55,7 +55,7 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 <h3 style="font-size: 16px" align="center">SHOPPING USER FLOW</h3>
 
 <br>
-<div align="center">Step One of the ordering process: The following page's layout is intended to represent a form. The user fills this out, which generates their customized design of a surfboard they are intending to actually order as a fully-realized, tangible product from the company. </div>
+<div align="center">The following page's layout is intended to represent a form. The user fills this out, which generates their customized design of a surfboard they are intending to actually order as a fully-realized, tangible product built by the company. </div>
 <br>
 
 <div align="center"><img src="Surfboard_Builder_Page.png" width="75%" height="75%"></div>
