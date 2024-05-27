@@ -54,22 +54,26 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 
 <h3 style="font-size: 16px" align="center">SHOPPING USER FLOW</h3>
 
+<br>
+<div align="center">Step One of the ordering process: The following page's layout is intended to represent a form. The user fills this out, which generates their customized design of a surfboard they are intending to actually order as a fully-realized, tangible product from the company. </div>
+<br>
+
 <div align="center"><img src="Surfboard_Builder_Page.png" width="75%" height="75%"></div>
 
 <br>
-<div align="center"> ⬇️</div>
+<div align="center">After each of the four customizations is selected by the user: Shape, Logo, Primary Color, and Secondary Color, selecting "GENERATE PREVIEW" will take the user to a page showing a mockup of how their surfboard is expected to look in reality. ⬇️</div>
 <br>
 
 <div align="center"><img src="Generate_Surfboard_Preview_Page.png" width="75%" height="75%"></div>
 
 <br>
-<div align="center"> ⬇️</div>
+<div align="center">If the user wishes to re-do their design, selecting "RESTART YOUR ORDER" will bring the user back to the top of the Surfboard Builder Page. If the user is satisfied with their design, selecting "COMPLETE YOUR ORDER" will take the user to the Order Completion Page. ⬇️</div>
 <br>
 
 <div align="center"><img src="Order_Completion_Page.png" width="75%" height="75%"></div>
 
 <br>
-<div align="center"> ⬇️</div>
+<div align="center">Selecting "GO BACK" brings the user back to the previous page. Selecting "SUBMIT ORDER" at the bottom of the form takes the user to the Order Confirmation Page. ⬇️</div>
 <br>
 
 <div align="center"><img src="Order_Confirmation_Page.png" width="75%" height="75%"></div>
