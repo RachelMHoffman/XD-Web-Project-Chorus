@@ -61,13 +61,7 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 <div align="center"><img src="Surfboard_Builder_Page.png" width="75%" height="75%"></div>
 
 <br>
-<div align="center">After each of the four customizations is selected by the user: Shape, Logo, Primary Color, and Secondary Color, selecting "GENERATE PREVIEW" will take the user to a page showing a mockup of how their surfboard is expected to look in reality. ⬇️</div>
-<br>
-
-<div align="center"><img src="Generate_Surfboard_Preview_Page.png" width="75%" height="75%"></div>
-
-<br>
-<div align="center">If the user wishes to re-do their design, selecting "RESTART YOUR ORDER" will bring the user back to the top of the Surfboard Builder Page. If the user is satisfied with their design, selecting "COMPLETE YOUR ORDER" will take the user to the Order Completion Page. ⬇️</div>
+<div align="center">After the user selects their four customizations: Shape, Logo, Primary Color, and Secondary Color, the final step the user takes in this module is selecting "GENERATE PREVIEW". When this is selected, a real-time mockup appears to show the user how their surfboard is expected to look in reality. If the user wishes to re-do their design, selecting "RESTART YOUR ORDER" will bring the user back to the top of the Surfboard Builder module. If the user is satisfied with their design, selecting "COMPLETE YOUR ORDER" will take the user to the Order Completion Page. ⬇️ </div>
 <br>
 
 <div align="center"><img src="Order_Completion_Page.png" width="75%" height="75%"></div>
