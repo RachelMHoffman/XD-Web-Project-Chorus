@@ -6,7 +6,7 @@ The following project is a website design concept presentation, based from an 
 
 <h2 style="font-size: 18px">THE CHALLENGE</h2>
 
-The inquiry from Chorus was for a design that is approachable enough to attract anyone interested in surfing for the fun of it, while also appealing to those with more competitive goals. They wanted a website built with the aim to first, and foremost, sell the company's products. The inquiry requested a Landing Page with the goal of maximizing conversions, an About Page, Shop Page, and a Privacy Policy page. They requested the Call to Action to be convincing users to call the company for more information. They also preferred a minimalist design that incorporates their brand color, blue.
+The inquiry from Chorus was for a design that is approachable enough to attract anyone interested in surfing for the fun of it, while also appealing to those with more competitive goals. They wanted a website built with the aim to first, and foremost, sell the company's products. The inquiry requested a Landing Page with the goal of maximizing conversions, an About Page, Shop Page, and a Privacy Policy page. They requested the Landing Page draw the user's attention to the option of calling the company for more information. They also preferred a minimalist design that incorporates their brand color, blue.
 
 <h2 style="font-size: 18px">BRAND GUIDELINES</h2>
 
@@ -50,7 +50,7 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 
 <h3 style="font-size: 16px" align="center">PRIVACY POLICY PAGE</h3>
 
-<div align="center"><img src="" width="75%" height="75%"></div>
+<div align="center"><img src="Privacy_Policy_Page.png" width="75%" height="75%"></div>
 
 <h3 style="font-size: 16px" align="center">SHOPPING USER FLOW</h3>
 
