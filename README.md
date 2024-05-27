@@ -54,43 +54,22 @@ The following are static .PNG screenshots highlighting the prototype, which is a
 
 <h3 style="font-size: 16px" align="center">SHOPPING USER FLOW</h3>
 
-<div align="center"><img src="" width="75%" height="75%"></div>
+<div align="center"><img src="Surfboard_Builder_Page.png" width="75%" height="75%"></div>
 
 <br>
 <div align="center"> ⬇️</div>
 <br>
 
-<div align="center"><img src="" width="75%" height="75%"></div>
+<div align="center"><img src="Generate_Surfboard_Preview_Page.png" width="75%" height="75%"></div>
 
 <br>
 <div align="center"> ⬇️</div>
 <br>
 
-<div align="center"><img src="" width="75%" height="75%"></div>
+<div align="center"><img src="Order_Completion_Page.png" width="75%" height="75%"></div>
 
 <br>
 <div align="center"> ⬇️</div>
 <br>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      1.  
-      <img src="" width="" height="">
-    </td>
-    <td width="50%">
-      2. 
-      <img src="" width="" height="">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      3. 
-      <img src="" width="" height="">
-    </td>
-    <td width="50%">
-      4. 
-      <img src="" width="" height="">
-    </td>
-  </tr>
-</table>
+<div align="center"><img src="Order_Confirmation_Page.png" width="75%" height="75%"></div>
